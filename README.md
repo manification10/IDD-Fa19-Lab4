@@ -71,6 +71,8 @@ void loop() {
 
 **a. Make a video of your proto puppet.**
 
+[Puppet](https://youtu.be/EooTCklrrcs)
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
